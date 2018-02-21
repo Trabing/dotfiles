@@ -1,8 +1,12 @@
 #!/usr/bin/env bash
 
-### 
-### Installation
-###
+##############################################################################
+#                                                                            #
+#                                                                            #
+#                                Installation                                #
+#                                                                            #
+#                                                                            #
+##############################################################################
 
 add-apt-repository ppa:certbot/certbot
 
@@ -14,9 +18,13 @@ pip3 install --upgrade pip
 
 pip3 install jupyter matplotlib numpy pandas
 
-###
-### Configuration
-###
+##############################################################################
+#                                                                            #
+#                                                                            #
+#                                Configuration                               #
+#                                                                            #
+#                                                                            #
+##############################################################################
 
 chown -R kensotrabing:kensotrabing /etc/ssh/kensotrabing
 
