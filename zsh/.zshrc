@@ -1,3 +1,5 @@
+export TERM="xterm-256color"
+
 export ZSH="/home/kenso/.oh-my-zsh"
 
 plugins=(
