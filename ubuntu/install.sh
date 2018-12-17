@@ -1,3 +1,3 @@
 #!/usr/bin/env bash
 
-sudo apt-get -y install zsh
+sudo apt-get -y install dconf-tools
