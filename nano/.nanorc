@@ -1,3 +1,9 @@
+set backwards
+set casesensitive
 set constantshow
-set tabstospaces
+set mouse
+set multibuffer
+set nowrap
+set smooth
 set tabsize 4
+set tabstospaces
